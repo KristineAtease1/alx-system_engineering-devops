@@ -1,1 +1,1 @@
-A file for shell redirections
+The shell permissions
